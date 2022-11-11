@@ -1,0 +1,65 @@
+body{
+    margin: auto;
+
+}
+#header{
+    max-width: 500px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(17, 17, 167);
+    background-color: rgb(235, 236, 236);
+    
+}
+#main{
+    max-width: 500px;
+    border: 1px solid black;
+    height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 236, 236);
+}
+input{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 3px;
+}
+select{
+    padding: 3px;
+    width: 200px;
+    margin-left: 10px;
+}
+#btn{
+    background-color: rgb(17, 17, 167);
+    color: white;
+    padding: 7px;
+    border-radius: 6px;
+}
+.item_Lista{
+    background-color: rgba(190, 219, 219, 0.308);
+    font-size: 20px;
+    height: 30px;
+    width: 420px;
+    list-style: none;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    
+}
+.btnExcluir{
+height: 25px;
+margin-top: 3px;
+width: 25px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.btnExcluir{
+    margin-left: 5px;
+    background-color: rgba(190, 219, 219, 0.308);
+    border: none;
+    
+}
